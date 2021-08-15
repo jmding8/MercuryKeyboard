@@ -30,7 +30,7 @@
   - Wired+split: 2x ProMicro (Elite-C and Proton-C not yet verified to work)
   - Wired+merged: 1x ProMicro (Elite-C and Proton-C not yet verified to work)
 - [ ] (optional for wired+split) 1x 3.5mm TRS (mono) or TRRS (stereo) cable
-- [ ] (optional) 48x Mill-Max sockets
+- [ ] (optional) 84x Mill-Max sockets
   - 7305, 0305-0 and 0305-1 only!
   - 0305-2 sockets are too long and will NOT work!
 
@@ -125,11 +125,12 @@
 
 ## Batteries
 - [ ] For **wired builds**, skip this section
-- [ ] For **wireless builds**, place a battery into the battery cutout labeled in the **QWERT-hand** half of the PCB and tape it in place.
+- [ ] For **wireless builds**, place a battery into the battery cutout labeled **BT1** in the **QWERT-hand** half of the PCB and tape it in place.
 ![Battery placement](/images/build/battery_placement.jpg)
 - [ ] Solder the black wire to the PCB pad marked -. Then solder the red wire to the PCB pad marked +
 ![Solder batteries](/images/build/battery_solder.jpg)
-- [ ] For **split builds**, repeat the process of securing and soldering the battery for the **HJKL-hand** half of the PCB.
+- [ ] For **split builds**, repeat the process of securing and soldering a battery into the cutout labeled **BT3** in the **HJKL-hand** half of the PCB.
+- [ ] (Optional) if you want extra battery life, you can add additional batteries to battery bays **BT2** and **BT4**.
 
 *** 
 

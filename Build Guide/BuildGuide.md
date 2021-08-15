@@ -2,14 +2,6 @@
 
 *** 
 
-## Notes
-* Please read all instructions before starting!
-* You have a couple options as to how to build your Mercury keyboard:
-  * wireless vs wired
-  * split vs merged
-
-*** 
-
 ## Check Kit Contents
 - [ ] 1x QWERT-hand plate
 - [ ] 1x HJKL-hand plate
@@ -50,21 +42,40 @@
 - [ ] Soldering equipment
 - [ ] Tweezers
 - [ ] Tape
+- [ ] (optional) Black permanent marker (Sharpie)
 
 *** 
 
-## Pre-build
+## Pre-build Notes
+- [ ] Read all instructions before starting the build! Or at least read each sub-section before starting the steps.
 - [ ] Familiarize yourself with the plates and PCB. Note the printed labels on the plates, bases, and PCB are labeled.
 ![Labels](/images/build/labels.jpg)
 - [ ] This build guide uses the terms **QWERT-hand** / **HJKL-hand** and **user-side** / **table-side** to refer to the two halves of the PCB and their two respective faces. This is because the terms left/right and top/bottom get ambiguous as soon as the PCB is rotated or flipped over. Pay special attention that you are working on the correct half of the PCB and on the correct side, because it is very easy to accidentally make mistakes this way.
+- [ ] Decide how you want to build your Mercury:
+1. Split + wireless
+![mercury](/images/split_wireless.jpg)
 
-*** 
+1. Split + wired
+![mercury](/images/split_wired.jpg)
 
-## TRRS sub-boards    
+1. Merged + wireless
+![mercury](/images/merged_wireless.jpg)
+
+1. Merged + wired
+![mercury](/images/merged_wired.jpg)
+
+***
+
+## TRRS sub-boards
 - [ ] For **wired+split builds**, solder both TRRS jacks to the **user-side** of both halves of the PCB.
 ![Solder TTRS jacks](/images/build/trrs.jpg)
 - [ ] For **all other builds** (wireless+split, wireless+merged, and wired+merged), snap off the TRRS sub-boards from the PCB.
 ![Snap off TRRS sub-boards](/images/build/remove_trrs.jpg)
+
+*** 
+
+## Edge Color
+- [ ] (optional) use a black permanent marker to paint the edges of the plates and bases black.
 
 *** 
 
@@ -114,12 +125,11 @@
 
 ## Batteries
 - [ ] For **wired builds**, skip this section
-- [ ] For **wireless builds**, place a battery into either of the two battery cutouts in the **QWERT-hand** half of the PCB and tape it in place.
+- [ ] For **wireless builds**, place a battery into the battery cutout labeled in the **QWERT-hand** half of the PCB and tape it in place.
 ![Battery placement](/images/build/battery_placement.jpg)
-- [ ] Solder the black wire to the PCB pad marked -, and the red wire to the PCB pad marked +
+- [ ] Solder the black wire to the PCB pad marked -. Then solder the red wire to the PCB pad marked +
 ![Solder batteries](/images/build/battery_solder.jpg)
-- [ ] For **split builds**, repeat the process of taping and soldering a battery to the **HJKL-hand** half of the PCB.
-- [ ] (Optional) you can use up to four batteries for increased battery life. 100 mAh results in roughly one week of battery life.
+- [ ] For **split builds**, repeat the process of securing and soldering the battery for the **HJKL-hand** half of the PCB.
 
 *** 
 
@@ -136,5 +146,5 @@
 ## Final assembly
 - [ ] (Optional) install the plastic case around the PCB, being careful to slip it around the reset switch and controller board.
 - [ ] Screw the bases in place. Do not over tighten the screws, or the keyboard may bend and not sit flat.
-- [ ] Apply adhesive anti-slip feet.
+- [ ] Apply anti-slip feet.
 ![Foot location](/images/build/foot_locations.jpg)

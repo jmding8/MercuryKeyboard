@@ -25,10 +25,10 @@
 - [ ] 42x switches, standard MX or Kailh PG1350 Chocolate
 - [ ] 42x 1u keycaps
 - [ ] Controller boards
-  - Wireless+split: 2x Nice!Nano
-  - Wireless+merged: 1x Nice!Nano
-  - Wired+split: 2x ProMicro (Elite-C and Proton-C not yet verified to work)
-  - Wired+merged: 1x ProMicro (Elite-C and Proton-C not yet verified to work)
+  - Split + wireless: 2x Nice!Nano
+  - Single_piece + wireless: 1x Nice!Nano
+  - Split + wired: 2x ProMicro (Elite-C and Proton-C not yet verified to work)
+  - Single_pice + wired: 1x ProMicro (Elite-C and Proton-C not yet verified to work)
 - [ ] (optional for wired+split) 1x 3.5mm TRS (mono) or TRRS (stereo) cable
 - [ ] (optional) 84x Mill-Max sockets
   - 7305, 0305-0 and 0305-1 only!
@@ -58,18 +58,18 @@
 1. Split + wired
 ![mercury](/images/split_wired.jpg)
 
-1. Merged + wireless
+1. Single-piece + wireless
 ![mercury](/images/merged_wireless.jpg)
 
-1. Merged + wired
+1. Single-piece + wired
 ![mercury](/images/merged_wired.jpg)
 
 ***
 
 ## TRRS sub-boards
-- [ ] For **wired+split builds**, solder both TRRS jacks to the **user-side** of both halves of the PCB.
+- [ ] For **split+wired builds**, solder both TRRS jacks to the **user-side** of both halves of the PCB.
 ![Solder TTRS jacks](/images/build/trrs.jpg)
-- [ ] For **all other builds** (wireless+split, wireless+merged, and wired+merged), snap off the TRRS sub-boards from the PCB.
+- [ ] For **all other builds** (split+wireless, single_piece+wireless, and single_piece+wired), snap off the TRRS sub-boards from the PCB.
 ![Snap off TRRS sub-boards](/images/build/remove_trrs.jpg)
 
 *** 
@@ -80,7 +80,7 @@
 *** 
 
 ## PCB halves
-  - [ ] For **merged builds**, skip this section.
+  - [ ] For **single_piece builds**, skip this section.
   - [ ] For **split builds**, cut along the divots just to the left and right of the bulge in the middle of all eight PCB bridges.
 ![Bridge Cut Points](/images/build/cutpoints.jpg)
   - [ ] Double check that the PCB halves sit flush against each other with no gap between them.

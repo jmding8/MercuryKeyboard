@@ -2,7 +2,7 @@
 
 Mercury is an asymmetric split keyboard with a 3x6 row staggered layout and 3 thumb keys per hand. If you're looking for a 40%, fully re-mappable keyboard with thumb keys but don't want to train to use a columnar staggered layout or are worried about maintaining fluency with traditional keyboards, then Mercury may be a good option for you.
 
-If you're looking for the build guide, [click here](/Build Guide/BuildGuide.md).
+If you're looking for the build guide, [it is located here](/Build%20Guide/BuildGuide.md).
 
 ![mercury](/images/mercury.jpg)
 

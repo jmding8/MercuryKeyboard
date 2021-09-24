@@ -2,9 +2,11 @@
 
 Mercury is row staggered keyboard with 42 keys: 3 rows of 18 columns, and 6 thumb keys. It can be split as well, with each hand controlling a 3x6 + 6 layout. If you're looking for a ~40%, fully re-mappable keyboard with thumb keys but don't want to train to use a columnar staggered layout or are worried about maintaining fluency with traditional keyboards, then Mercury may be a good option for you.
 
-If you're looking for the build guide, [you can find it here](/Build%20Guide/BuildGuide.md).
-
 ![mercury](/images/mercury.jpg)
+
+## Resources
+1. [Build guide](/Build%20Guide/BuildGuide.md)
+1. [3d printed case](/Case/PrintInstructions.md)
 
 ## Supported Configurations
 

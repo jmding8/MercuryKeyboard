@@ -1,10 +1,9 @@
-# Case 3d Printing Tips
+# Case 3D Printing Instructions
 
-* For best results, use the included PrusaSlicerPresliced.3mf project file. It includes tweaks like manually placed seams and modifier-meshes which help improve surface quality.
-* For low-profile builds, use your slicer to cut off the top 2mm of the part (leaving 6.8mm total height).
-* As of late 2020, PrusaSlicer is recommended over Cura because the latter's thin-wall implementation is buggy.
-* If you still want to slice yourself instead of using the recommended PrusaSlicerPresliced.3mf file, here are some suggested settings:
-  * 0.5mm line width (can be printed with a 0.4mm nozzle with no issues)
-  * 0.20mm layer heights
-  * 2 perimeters
-  * no supports
+* For wired, split builds, delete Body53_1 and Body54_1 to make room for the TRRS sub-boards to stick out through.
+![TRRS cutouts in green](/images/case/trrs_cutout.png)
+* The case is designed assuming PrusaSlicer. Cura handles thin walls poorly, and also treats adjoining parts differently.
+* Use PrusaSlicer to open the .3mf file as a project file (and not as a pure geometry / mesh).
+* The project file includes slicer settings which implement many tweaks and optimizations that help maximize print quality.
+* The top part was printed from the project file. The bottom part was sliced more conventionally.
+![TRRS cutouts in green](/images/case/slicer_comparison.jpeg)

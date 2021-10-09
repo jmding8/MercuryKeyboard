@@ -152,4 +152,4 @@
 
 ## Firmware
 - [ ] If using nice!nano controller boards and ZMK firmware, double-tap the reset button on both keyboards to enter flashing mode.
-- [ ] Copy left.uf2 onto the left keyboard, and right.uf2 onto the right keyboard. The firmware binary files [are located here}(/Firmware/).
+- [ ] Copy left.uf2 onto the left keyboard, and right.uf2 onto the right keyboard. The firmware binary files [are located here](/Firmware/).

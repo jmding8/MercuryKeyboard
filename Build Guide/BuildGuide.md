@@ -151,5 +151,7 @@
 ![Foot location](/images/build/foot_locations.jpg)
 
 ## Firmware
-- [ ] If using nice!nano controller boards and ZMK firmware, double-tap the reset button on both keyboards to enter flashing mode.
-- [ ] Copy left.uf2 onto the left keyboard, and right.uf2 onto the right keyboard. The firmware binary files [are located here](/Firmware/).
+- [ ] For **wireless builds**, nice!nano controller boards run on ZMK firmware.
+  - [ ] See [the ZMK documentation on how to flash](https://zmk.dev/docs/user-setup#flashing-uf2-files) the firmware binaries to your keyboard.
+  - [ ] The default firmware binary files [are located here](/Firmware/), and are named **zmk_left.uf2** and **zmk_right.uf2**.
+  - [ ] If you want to modify the default keymap or firmware settings, see [the ZMK documentation on customization](https://zmk.dev/docs/customization).

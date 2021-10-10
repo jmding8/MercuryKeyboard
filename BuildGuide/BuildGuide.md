@@ -150,8 +150,8 @@
 - [ ] Apply anti-slip feet.
 ![Foot location](/images/build/foot_locations.jpg)
 
+***
+
 ## Firmware
-- [ ] For **wireless builds**, nice!nano controller boards run on ZMK firmware.
-  - [ ] See [the ZMK documentation on how to flash](https://zmk.dev/docs/user-setup#flashing-uf2-files) the firmware binaries to your keyboard.
-  - [ ] The default firmware binary files [are located here](/Firmware/), and are named **zmk_left.uf2** and **zmk_right.uf2**.
-  - [ ] If you want to modify the default keymap or firmware settings, see [the ZMK documentation on customization](https://zmk.dev/docs/customization).
+
+See the [Firmware Guide](/BuildGuide/FirmwareGuide.md)

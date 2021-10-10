@@ -1,6 +1,6 @@
 # Firmware Guide
 
-*** 
+ 
 
 ## Default Keymap
 Mercury's default keymap:
@@ -10,7 +10,7 @@ Mercury's default keymap:
 - The `System_Layer` is accessed by holding the `Tab / Function_Layer` key and the `Escape / Number_Layer` keys down at the same time.
 - Windows mode is toggled by `System_Layer` + `W`, and changes the order of the modifiers under the left thumb to Windows -> Alt -> Ctrl (left to right).
 
-***
+
 
 ## Flashing Firmware For Wireless Builds
 - For **wireless builds**, ZMK is the preferred firmware to use with the Nice!nano controller boards.
@@ -19,11 +19,11 @@ Mercury's default keymap:
 - After flashing the firmware, you will likely need to follow {the settings reset procedure described here](https://zmk.dev/docs/troubleshooting#split-keyboard-halves-unable-to-pair) to get the keyboard halves to bond and to get the keyboard to pair with your computer.
 - If you want to modify the default keymap or firmware settings, see [the ZMK documentation on customization](https://zmk.dev/docs/customization).
 
-***
+
 
 ## ~~Firmware For Wired Builds~~ Coming Soon...
 
-***
+
 
 ## Bluetooth 
 - After flashing the firmware, you will likely need to follow {the settings reset procedure described here](https://zmk.dev/docs/troubleshooting#split-keyboard-halves-unable-to-pair) to get the two keyboard halves to bond to each other, and to get the keyboard to pair with your computer.

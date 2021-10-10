@@ -1,6 +1,6 @@
 # Build Guide
 
-*** 
+ 
 
 ## Check Kit Contents
 - [ ] 1x QWERT-hand plate
@@ -19,7 +19,7 @@
 - [ ] (optional) 1x left case
 - [ ] (optional) 1x right case
 
-*** 
+ 
 
 ## Gather Additional Parts
 - [ ] 42x switches, standard MX or Kailh PG1350 Chocolate
@@ -34,7 +34,7 @@
   - 7305, 0305-0 and 0305-1 only!
   - 0305-2 sockets are too long and will NOT work!
 
-*** 
+ 
 
 ## Gather Tools
 - [ ] Flush cutter
@@ -44,7 +44,7 @@
 - [ ] Tape
 - [ ] (optional) Black permanent marker (Sharpie)
 
-*** 
+ 
 
 ## Pre-build Notes
 - [ ] Read all instructions before starting the build! Or at least read each sub-section before starting the steps.
@@ -64,7 +64,7 @@
 1. Single-piece + wired
 ![mercury](/images/merged_wired.jpg)
 
-***
+
 
 ## TRRS sub-boards
 - [ ] For **split+wired builds**, solder both TRRS jacks to the **user-side** of both halves of the PCB.
@@ -72,12 +72,12 @@
 - [ ] For **all other builds** (split+wireless, single_piece+wireless, and single_piece+wired), snap off the TRRS sub-boards from the PCB.
 ![Snap off TRRS sub-boards](/images/build/remove_trrs.jpg)
 
-*** 
+ 
 
 ## Edge Color
 - [ ] (optional) use a black permanent marker to paint the edges of the plates and bases black.
 
-*** 
+ 
 
 ## PCB halves
   - [ ] For **single_piece builds**, skip this section.
@@ -86,7 +86,7 @@
   - [ ] Double check that the PCB halves sit flush against each other with no gap between them.
 ![Flush PCBs](/images/build/flush.jpg)
 
-*** 
+ 
 
 ## Controller board header pins
 - [ ] Shorten two strips of header pins to 10 pins long.
@@ -103,14 +103,14 @@
 - [ ] Remove the controller board and set it aside for now.
 - [ ] For **split builds**, repeat this process for the second set of header pins on the **HJKL-hand** half of the PCB.
 
-*** 
+ 
 
 ## Reset switches
 - [ ] Solder the reset switch to the **table-side** of the **QWERT-hand** half of the PCB.
 ![Reset switch](/images/build/reset.jpg)
 - [ ] For **split builds**, also solder a reset switch to the **table-side** of the **HJKL-hand** half of the PCB.
 
-*** 
+ 
 
 ## Switches
 - [ ] Screw the standoffs securely to the **table-side** of both plates.
@@ -121,7 +121,7 @@
 - [ ] Solder the switch legs (or hot-swap sockets if using) to the PCB.
 - [ ] Repeat this process of inserting switches and soldering them in place until all the switches are installed.
 
-*** 
+ 
 
 ## Batteries
 - [ ] For **wired builds**, skip this section
@@ -132,7 +132,7 @@
 - [ ] For **split builds**, repeat the process of securing and soldering a battery into the cutout labeled **BT3** in the **HJKL-hand** half of the PCB.
 - [ ] (Optional) if you want extra battery life, you can add additional batteries to battery bays **BT2** and **BT4**.
 
-*** 
+ 
 
 ## Controller boards
 - [ ] Place a controller board onto the header pins of the **QWERT-hand** half of the PCB, with the controller board components facing the PCB.
@@ -142,7 +142,7 @@
 - [ ] Solder the controller boards in place.
 - [ ] Trim the header pins flush with the controller boards.
 
-*** 
+ 
 
 ## Final assembly
 - [ ] (Optional) install the plastic case around the PCB, being careful to slip it around the reset switch and controller board.
@@ -150,7 +150,7 @@
 - [ ] Apply anti-slip feet.
 ![Foot location](/images/build/foot_locations.jpg)
 
-***
+
 
 ## Firmware
 

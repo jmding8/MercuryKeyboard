@@ -38,6 +38,7 @@
 
 ## Gather Tools
 - [ ] Flush cutter
+  - Due to limited space and tight clearances, typical side-cutters may not be able to trim the pins close enough to the surface of the PCB. It is best to use a pair of flush-cutters instead, [such as these](https://www.amazon.com/XURON-170-II-Micro-Shear-Flush-Cutter/dp/B07BSSG48F).
 - [ ] Phillips screwdriver
 - [ ] Soldering equipment
 - [ ] Tweezers

@@ -1,6 +1,6 @@
 # Mercury
 
-Mercury is row staggered keyboard with 42 keys. It is designed primarily to be a split, wireless, low-profile keyboard with thumb clusters. However it also supports several other configurations including non-split builds, wired builds, and MX height switches. If you're looking for a ~40% keyboard with thumb keys but don't want to train to use a columnar staggered layout or are worried about maintaining fluency with traditional keyboards, then Mercury may be a good option for you.
+Mercury is row staggered keyboard with 42 keys. It is primarily designed as a split, wireless, low-profile keyboard with multiple thumb keys. It can also be built in several other configurations including monoblock, wired, and with standard-height MX switches, but full feature parity is not guaranteed for these secondary configurations. If you are looking for a 40% keyboard with thumb keys and prefer row stagger then Mercury may be a good option for you.
 
 ![mercury](/images/mercury.jpg)
 

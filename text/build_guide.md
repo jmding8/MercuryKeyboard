@@ -2,43 +2,15 @@
 
  
 
-## Check Kit Contents
-- [ ] 1x QWERT-hand plate
-- [ ] 1x HJKL-hand plate
-- [ ] 1x QWERT-hand base
-- [ ] 1x HJKL-hand base
-- [ ] 1x PCB
-- [ ] 2x reset switches (YD-3414)
-- [ ] 24x M2 screws (4mm, wafer head)
-- [ ] 12x cylindrical standoffs (<3.5mm diameter)
-  - 7mm for low-profile, Kailh PG1350 Chocolate switches
-  - 9mm for standard, MX style switches
-- [ ] 8x Non-slip feet
-- [ ] (optional) 2x batteries
-- [ ] (optional) 2x 3.5mm TRRS jacks, PJ-320A
-- [ ] (optional) 1x left case
-- [ ] (optional) 1x right case
+## Check Bill of Materials
+- [ ] Verify you have everything listed in the [bill of materials](/text/bill_of_materials.md)
 
- 
 
-## Gather Additional Parts
-- [ ] 42x switches, standard MX or Kailh PG1350 Chocolate
-- [ ] 42x 1u keycaps
-- [ ] Controller boards
-  - Split + wireless: 2x Nice!Nano
-  - Single_piece + wireless: 1x Nice!Nano
-  - Split + wired: 2x ProMicro (Elite-C and Proton-C not yet verified to work)
-  - Single_pice + wired: 1x ProMicro (Elite-C and Proton-C not yet verified to work)
-- [ ] (optional for wired+split) 1x 3.5mm TRS (mono) or TRRS (stereo) cable
-- [ ] (optional) 84x Mill-Max sockets
-  - 7305, 0305-0 and 0305-1 only!
-  - 0305-2 sockets are too long and will NOT work!
 
- 
-
-## Gather Tools
-- [ ] Flush cutter
-  - Due to limited space and tight clearances, typical side-cutters may not be able to trim the pins close enough to the surface of the PCB. It is best to use a pair of flush-cutters instead, [such as these](https://www.amazon.com/XURON-170-II-Micro-Shear-Flush-Cutter/dp/B07BSSG48F).
+## Tools
+- [ ] Flush cutters
+  - Due to limited space and tight clearances, side-cutters may not be able to trim the pins close enough to the surface of the PCB. It is best to use a pair of flush-cutters instead, [such as these](https://www.amazon.com/XURON-170-II-Micro-Shear-Flush-Cutter/dp/B07BSSG48F).
+  ![Flush Cutters](/images/build/flush_cutters.png)
 - [ ] Phillips screwdriver
 - [ ] Soldering equipment
 - [ ] Tweezers

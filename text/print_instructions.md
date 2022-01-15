@@ -11,5 +11,5 @@
 ![TRRS cutouts in green](/images/case/slicer_comparison.jpeg)
 
 ## Files
-1. [Case file(s) for all split builds](/Case/SplitCaseWithPrusaSlicerSettings.3mf)
+1. [Case file(s) for all split builds](/case/split_case_with_prusa_slicer_settings.3mf)
 1. ~~Case file for merged builds~~ Not yet available

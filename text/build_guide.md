@@ -31,10 +31,10 @@
 1. Split + wired
 ![mercury](/images/split_wired.jpg)
 
-1. Single-piece + wireless
+1. Monoblock + wireless
 ![mercury](/images/merged_wireless.jpg)
 
-1. Single-piece + wired
+1. Monoblock + wired
 ![mercury](/images/merged_wired.jpg)
 
 
@@ -42,7 +42,7 @@
 ## TRRS sub-boards
 - [ ] For **split+wired builds**, solder both TRRS jacks to the **user-side** of both halves of the PCB.
 ![Solder TTRS jacks](/images/build/trrs.jpg)
-- [ ] For **all other builds** (split+wireless, single_piece+wireless, and single_piece+wired), snap off the TRRS sub-boards from the PCB.
+- [ ] For **all other builds** (split+wireless, monoblock+wireless, and monoblock+wired), snap off the TRRS sub-boards from the PCB.
 ![Snap off TRRS sub-boards](/images/build/remove_trrs.jpg)
 
  
@@ -53,7 +53,7 @@
  
 
 ## PCB halves
-  - [ ] For **single_piece builds**, skip this section.
+  - [ ] For **monoblock builds**, skip this section.
   - [ ] For **split builds**, cut along the divots just to the left and right of the bulge in the middle of all eight PCB bridges.
 ![Bridge Cut Points](/images/build/cutpoints.jpg)
   - [ ] Double check that the PCB halves sit flush against each other with no gap between them.

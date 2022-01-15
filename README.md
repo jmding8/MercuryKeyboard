@@ -20,8 +20,8 @@ Mercury is row staggered keyboard with 42 keys. It is designed primarily to be a
 1. Split + wired
 ![mercury](/images/split_wired.jpg)
 
-1. Single-piece + wireless
+1. Monoblock + wireless
 ![mercury](/images/merged_wireless.jpg)
 
-1. Single-piece + wired
+1. Monoblock + wired
 ![mercury](/images/merged_wired.jpg)

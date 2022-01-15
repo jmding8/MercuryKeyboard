@@ -28,8 +28,8 @@
 ![Silicone Nose Pads](/images/bill_of_materials/nose_pads.png)
 - [ ] (optional) 2x batteries. These must be smaller than 10mm wide x 44mm long x 5mm thick. 501040 batteries are the highest-capacity batteries I have found that fit. [Available on AliExpress](https://www.aliexpress.com/item/33044275929.html)
 - [ ] (optional) 2x 3.5mm TRRS jacks, PJ-320A, [available on AliExpress](https://www.aliexpress.com/item/1005003561859371.html)
-- [ ] (optional) 1x 3d printed left case
-- [ ] (optional) 1x 3d printed right case
+- [ ] (optional) 1x 3d printed left case, [see print instructions](/text/print_instructions.md)
+- [ ] (optional) 1x 3d printed right case, [see print instructions](/text/print_instructions.md)
 - [ ] (optional for wired+split) 1x 3.5mm TRS (mono) or TRRS (stereo) cable
 - [ ] (optional) 84x Mill-Max sockets
   - 7305, 0305-0 and 0305-1 only!

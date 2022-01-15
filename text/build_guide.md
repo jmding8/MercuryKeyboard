@@ -9,7 +9,7 @@
 
 ## Tools
 - [ ] Flush cutters
-  - Due to limited space and tight clearances, side-cutters may not be able to trim the pins close enough to the surface of the PCB. It is best to use a pair of flush-cutters instead, [such as these](https://www.amazon.com/XURON-170-II-Micro-Shear-Flush-Cutter/dp/B07BSSG48F).
+  - Due to limited space and tight clearances, side-cutters may not be able to trim the pins close enough to the surface of the PCB. It is best to use a pair of flush-cutters instead like these, [available on Amazon](https://www.amazon.com/XURON-170-II-Micro-Shear-Flush-Cutter/dp/B07BSSG48F).
   ![Flush Cutters](/images/build/flush_cutters.png)
 - [ ] Phillips screwdriver
 - [ ] Soldering equipment

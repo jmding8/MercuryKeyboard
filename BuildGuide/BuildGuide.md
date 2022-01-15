@@ -99,10 +99,21 @@
 - [ ] Double check that the header pins are inserted into the **QWERT-hand** half of the PCB.
 - [ ] Place the controller onto the header pins and use a piece of tape to hold everything together temporarily.
 ![Tape controller in place](/images/build/tape_controller.jpg)
+- [ ] Using flush cutters, trim the header pins flat to the surface of the PCB.
+![Trim header pins flush](/images/build/trim_header_pins_flush.jpg)
 - [ ] Solder the header pins **to the PCB only**. Do not solder the controller board.
 ![Solder header pin strips to PCB](/images/build/solder_headers.jpg)
 - [ ] Remove the controller board and set it aside for now.
 - [ ] For **split builds**, repeat this process for the second set of header pins on the **HJKL-hand** half of the PCB.
+
+
+
+## Optional: remove spacers from headers
+- [ ] This step is optional but recommended. It makes it easier to remove the controller boards later if they need to be replaced for repair, upgrade, or other purposes.
+- [ ] Use pliers to carefully pull the plastic spacers off of the headers. They should slide off with gentle rocking and pulling.
+![Remove plastic spacers](/images/build/header_removal.jpg)
+- [ ] It is still necessary to precisely space the controller board away from the PCB. To facilitate this, cut 6x single-pin spacers from the strip. Reinstall three of these single-pin spacers roughly where pictured, and repeat for the second controller.
+![Reinstall trimmed spacers](/images/build/header_spacers.jpg)
 
  
 
@@ -116,11 +127,15 @@
 ## Switches
 - [ ] Screw the standoffs securely to the **table-side** of both plates.
 ![Attach standoffs](/images/build/standoff.jpg)
-- [ ] If you are using Mill-max hot-swap sockets, install the sockets onto the switch legs.
-- [ ] Install one of the switches into any of the key cutouts in the plate.
-- [ ] Place the plate + switch assembly onto the PCB, making sure that the switch legs (or hot-swap sockets) fit through their respective holes in the PCB.
-- [ ] Solder the switch legs (or hot-swap sockets if using) to the PCB.
-- [ ] Repeat this process of inserting switches and soldering them in place until all the switches are installed.
+- [ ] Using flush cutters, trim the legs of four switches flush with the PCB. This is to prevent these switches from accidentally short circuiting against the controller boards.
+![Trim switch legs](/images/build/mark_switch_legs.jpg)
+- [ ] Snap all of the switches into the plate.
+- [ ] Double check that the four switches with the trimmed legs are positioned directly over the controller boards.
+- [ ] It is best to install all of the switches into the plate before soldering. Once you start soldering, it becomes very difficult to make sure that all of the switches are fully pressed into the plate.
+- [ ] If you are using Mill-max hot-swap sockets, solder them into the PCB now.
+- [ ] Place the plate + switch assembly onto the PCB.
+- [ ] Double check that all of the switch legs fit into their respective holes in the PCB, and have not been bent out of place.
+- [ ] Solder all of the switches in place.
 
  
 

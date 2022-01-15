@@ -10,7 +10,7 @@
 - [ ] 1x PCB
 - [ ] 2x reset switches (YD-3414)
 - [ ] 24x M2 screws (4mm, wafer head)
-- [ ] 12x standoffs (~3mm diameter, brass)
+- [ ] 12x cylindrical standoffs (<3.5mm diameter)
   - 7mm for low-profile, Kailh PG1350 Chocolate switches
   - 9mm for standard, MX style switches
 - [ ] 8x Non-slip feet

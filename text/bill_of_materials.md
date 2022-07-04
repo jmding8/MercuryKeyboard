@@ -2,12 +2,12 @@
 
  
 
-## Kit Contents
-- [ ] 1x QWERT-hand plate
-- [ ] 1x HJKL-hand plate
-- [ ] 1x QWERT-hand base
-- [ ] 1x HJKL-hand base
-- [ ] 1x PCB
+## PCBs
+- [ ] 1x left hand plate
+- [ ] 1x left hand base
+- [ ] 1x right-hand plate
+- [ ] 1x right-hand base
+- [ ] 1x logic PCB
 
 
 

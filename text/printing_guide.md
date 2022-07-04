@@ -1,4 +1,4 @@
-# 3d Printed Case
+# 3d Printing Guide
 
 ## Instructions
 

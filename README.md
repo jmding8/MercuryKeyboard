@@ -1,27 +1,25 @@
 # Mercury
 
-Mercury is row staggered keyboard with 42 keys. It is primarily designed as a split, wireless, low-profile keyboard with multiple thumb keys. It can also be built in several other configurations including monoblock, wired, and with standard-height MX switches, but full feature parity is not guaranteed for these secondary configurations. If you are looking for a 40% keyboard with thumb keys and prefer row stagger then Mercury may be a good option for you.
+Mercury is a row staggered keyboard with 42 keys. It is primarily designed to be a split, wireless, low-profile (PG1350 "Choc" format) keyboard. Other configuraons are also possible, but full feature parity is not guaranteed. If you are looking for a 40% keyboard with thumb keys and a conventional row staggered layout, then Mercury may be a good fit for you.
 
-![mercury](/images/mercury.jpg)
+![mercury](/images/split_wireless.jpg)
 
 ## Resources
 1. [Bill of materials](/text/bill_of_materials.md)
 1. [Build guide](/text/build_guide.md)
 1. [Manufacturing guide](/text/manufacturing_guide.md)
 
-## Supported Configurations
+## Alternative Configurations
 
-* Mercury supports standard MX switches, as well as low-profile switches (Kailh PG1350 "Chocolate").
-* Mercury also supports the following four build configurations:
+* MX-style, full-height switches
+* USB wired
+* Monoblock, aka non-split
 
-1. Split + wireless
-![mercury](/images/split_wireless.jpg)
-
-1. Split + wired
+1. Split, wired, full-height
 ![mercury](/images/split_wired.jpg)
 
-1. Monoblock + wireless
+1. Monoblock, wireless, low-profile
 ![mercury](/images/merged_wireless.jpg)
 
-1. Monoblock + wired
+1. Monoblock, wired, low-profile
 ![mercury](/images/merged_wired.jpg)

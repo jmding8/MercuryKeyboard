@@ -7,7 +7,8 @@ Mercury is a row staggered keyboard with 42 keys. It is primarily designed to be
 ## Resources
 1. [Bill of materials](/text/bill_of_materials.md)
 1. [Build guide](/text/build_guide.md)
-1. [Manufacturing guide](/text/manufacturing_guide.md)
+1. [Manufacturing notes](/text/manufacturing_notes.md)
+1. [Firmware and layout notes](/text/firmware_notes.md)
 
 ## Alternative Configurations
 

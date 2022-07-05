@@ -15,14 +15,17 @@ Mercury's default keymap seeks to achieve the following goals:
 * Minimize the learning curve, especially:
   * Minimize the need for user-tuning of timing parameters (`tapping-term`)
   * Minimize the requirement for strict key-up order
-To achieve these goals, we use several combos:
-Modifier combos:
+
+To achieve these goals, we use several combos
+
+### Modifier combos
 1. `K` + `L` -> `Right Shift`
 1. `S` + `D` -> `Left Shift`
 1. `D` + `F` -> `Number Layer`
 1. `S` + `D` + `F` -> `Shifted Number Layer`
 1. `A` + `Function Layer` -> `Shifted Function Layer`
-Other combos:
+
+### Other combos
 1. `X` + `C` -> `Tab`
 1. `C` + `V` -> `Esc`
 1. `M` + `Comma` -> `Caps Lock`

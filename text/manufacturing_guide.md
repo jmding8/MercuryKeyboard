@@ -3,10 +3,13 @@
 
 
 ## PCBs
-* The PCBs were designed with specific thicknesses for clearance reasons:
+* [The PCB files are here](/pcb/v1.2).
+* There are 5 total PCB files. They were designed with specific thicknesses for clearance reasons:
   * Logic PCB: 1.6mm
-  * Base PCBs: 1.2mm
-  * Plate PCBs: 1.2mm. This thickness works well with standard MX style switches, and with low-profile, Kailh PG1350 switches.
+  * Left base: 1.2mm
+  * Right base: 1.2mm
+  * Left plate: 1.2mm
+  * Right plate: 1.2mm
 * It is strongly recommended to have the diodes pre-soldered by the PCB manufacturer.
 
 

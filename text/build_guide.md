@@ -3,7 +3,7 @@
  
 
 ## Check Bill of Materials
-- [ ] Verify you have everything listed in the [bill of materials](/text/bill_of_materials.md)
+- [ ] Verify the contents of the [bill of materials](/text/bill_of_materials.md)
 
 
 

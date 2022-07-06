@@ -17,7 +17,7 @@
 ## Optional 3D Printed Case
 
 ### Split builds
-* [The case files are here](/case/split_case_with_prusa_slicer_settings.3mf).
+* [The case files are here](/case/split_case_with_prusa_slicer_settings.3mf). Included in the file are the low-profile cases, as well as the full-height cases.
 * For wired builds, delete Body53_1 and Body54_1 to make room for the TRRS sub-boards to stick out through.
 ![TRRS cutouts in green](/images/case/trrs_cutout.png)
 * The case is designed around PrusaSlicer. Cura (as of 2021) handles thin walls poorly, and also treats adjoining parts differently.

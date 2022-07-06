@@ -142,4 +142,4 @@
 
 ## Firmware
 
-See the [Firmware Guide](/BuildGuide/FirmwareGuide.md)
+See the [Firmware Notes](/text/firmware_notes.md)

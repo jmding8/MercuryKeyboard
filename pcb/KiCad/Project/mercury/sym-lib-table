@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name nice_nano)(type Legacy)(uri C:/Jamie/Hobbies/Keyboard/Mercury/PCB/KiCad/Libraries/keebee.pretty/Libraries/nice_nano.lib)(options "")(descr ""))
+)
